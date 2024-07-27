@@ -64,8 +64,8 @@ Dorrat se seguira usando para distintas cosas y funciones.
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/Shadow-Bot-MD
-> cd Zirax-Bot-MD 
+> git clone https://github.com/Javisaucuns/ShadowBot-MD
+> cd ShadowBot-MD
 > yarn install 
 > npm install
 > npm install 
